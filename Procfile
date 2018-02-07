@@ -1,1 +1,1 @@
-web: python Belly\ Button\ Diversity\ Web\ Dash/app.py
+web: python app.py
