@@ -1,1 +1,1 @@
-web: python homework/Belly\ Button\ Diversity\ Web\ Dash/app.py
+web: python Belly\ Button\ Diversity\ Web\ Dash/app.py
